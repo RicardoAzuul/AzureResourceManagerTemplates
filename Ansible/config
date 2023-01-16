@@ -1,0 +1,7 @@
+Snippets to configure Ansible:
+
+sudo apt install python3-pip -y
+pip3 install --user https://releases.ansible.com/ansible-tower/cli/ansible-tower-cli-latest.tar.gz
+
+Add Ansible to Path
+export PATH=/home/azureadmin/.local/bin:$PATH
